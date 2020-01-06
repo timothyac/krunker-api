@@ -1,6 +1,6 @@
 {
   "name": "krunker-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "API to pull information from krunker.io",
   "main": "index.js",
   "scripts": {
